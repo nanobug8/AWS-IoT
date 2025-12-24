@@ -1,0 +1,3 @@
+awsiotsdk
+RPi.GPIO
+boto3
